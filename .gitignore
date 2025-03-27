@@ -1,1 +1,19 @@
+<<<<<<< HEAD
 node_modules
+=======
+  # Ignore node_modules directory
+    node_modules/
+
+    # Ignore .env files (containing environment variables)
+    .env
+
+    # Ignore log files
+    *.log
+
+    # Ignore macOS system files
+    .DS_Store
+
+    # Ignore build output
+    dist/
+    build/
+>>>>>>> b6d3902d0b9114e87ee121bdd0606b718503a8ae
