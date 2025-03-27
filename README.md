@@ -11,7 +11,7 @@
 ## Description
 this app is designed to store data of a company which includes storing all product data like products their categories and tags.
 
-![App Image](Develop/assets/app-showcase.png)
+![App Image](/assets/app-showcase.png)
 https://app.screencastify.com/v3/watch/n4dhPL6hocIuadHVriE7
 
 ## Installation
