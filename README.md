@@ -9,16 +9,16 @@
 - [Questions](#questions)
 
 ## Description
-this app is designed to store data of a company which includes storing all product data like products their categories and tags.
+this app is designed to store data of a company which includes storing all the departments roles and employees. you can also add data, and manipulate it.
 
-![App Image](/assets/app-showcase.png)
-https://app.screencastify.com/v3/watch/n4dhPL6hocIuadHVriE7
+![App Image](./assets/app-showcase.png)
+https://app.screencastify.com/v3/watch/D1N5Kmq7fBxKB7PKsGQL
 
 ## Installation
-first you must npm i to instal dependencies, next you must log into your pswl and run the schema db, next you npm run seeds to seed your tables, next you npm start to start the server, finally you can use the local host in insomnia to get requests.
+by entering into the terminal of the parent folder and typing npm i and node index.js
 
 ## Usage
-in a perfect world you would have folders of all the type of requests you want. but you would have to get the url and the right extension like /api/categories and the right route like post or get.
+after running the app a sliding list will pop in the terminal. use your arrow keys to manuver to your desired command and affect the database accordingly.
 
 ## Questions
 For any questions, you can reach me at:
